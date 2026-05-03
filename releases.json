@@ -1,0 +1,238 @@
+{
+  "latest": "v3.4.2",
+  "releases": [
+    {
+      "version": "v3.4.2",
+      "date": "2026-05-02",
+      "notes": [
+        "Improved web app responsiveness for arbitrary display and MFD resolutions",
+        "Correct letterboxing across arbitrary display and MFD resolutions",
+        "Fixed blue-tint appearance on LOOKOUT camera feeds",
+        "Reconnection bug fixes and startup hardening"
+      ]
+    },
+    {
+      "version": "v3.4.1",
+      "date": "2026-04-27",
+      "notes": [
+        "Bug fixed where streaming would be stopped when no internet is available",
+        "Log flodding bug fix"
+      ]
+    },
+    {
+      "version": "v3.4.0",
+      "date": "2026-04-20",
+      "notes": [
+        "Faster frame rate and smoother stream",
+        "Auto discovery of IP cameras in the network",
+        "Horizon detection",
+        "New neural network with improved detection",
+        "Heading PGN selection in prefs",
+        "Various smaller stability improvements and bug fixes"
+      ]
+    },
+    {
+      "version": "v3.2.0",
+      "date": "2026-02-05",
+      "notes": [
+        "Stabilized NMEA display",
+        "Display Argo routes, drag & drop GPX routes, route preview mode",
+        "Overall Performance and visualization improvements"
+      ]
+    },
+    {
+      "version": "v3.1.1",
+      "date": "2025-12-22",
+      "notes": [
+        "With this update, your settings and preferences will now be saved",
+        "Automatic horizon stabilization when IMU data is available, including support for manual roll offset",
+        "Updated 3D boat picker, depth label visuals, horizon line layering, and animated wake effects",
+        "Cleaner chart presentation with reduced vector symbols and simplified styling",
+        "Improved rendering reliability across Chromium-based browsers",
+        "Internal refactors and dependency cleanup for better stability and performance"
+      ]
+    },
+    {
+      "version": "v3.1.0",
+      "date": "2025-12-12",
+      "notes": [
+        "Automatic horizon stabilization when IMU data is available, including support for manual roll offset",
+        "Updated 3D boat picker, depth label visuals, horizon line layering, and animated wake effects",
+        "Cleaner chart presentation with reduced vector symbols and simplified styling",
+        "Improved rendering reliability across Chromium-based browsers",
+        "Internal refactors and dependency cleanup for better stability and performance"
+      ]
+    },
+    {
+      "version": "v3.0.2",
+      "date": "2025-10-29",
+      "notes": [
+        "New Aerial view gives you another 3D perspective for situational awareness. Button available on the top left of the screen for split screen view. Swipe to orbit the camera around the boat",
+        "Stability option uses heading sensor IMU data to detect pitch and roll of the boat for a better augmented reality experience. Toggle on in Boat Set-up preferences",
+        "Performance and optimization improvements"
+      ]
+    },
+    {
+      "version": "v3.0.1",
+      "date": "2025-10-22",
+      "notes": [
+        "New Aerial view gives you another 3D perspective for situational awareness. Button available on the top left of the screen for split screen view. Swipe to orbit the camera around the boat",
+        "Stability option uses heading sensor IMU data to detect pitch and roll of the boat for a better augmented reality experience. Toggle on in Boat Set-up preferences",
+        "Performance and optimization improvements"
+      ]
+    },
+    {
+      "version": "v3.0.0",
+      "date": "2025-10-13",
+      "notes": [
+        "New Aerial view gives you another 3D perspective for situational awareness. Button available on the top left of the screen for split screen view. Swipe to orbit the camera around the boat",
+        "Stability option uses heading sensor IMU data to detect pitch and roll of the boat for a better augmented reality experience. Toggle on in Boat Set-up preferences",
+        "Many more performance and optimization improvements"
+      ]
+    },
+    {
+      "version": "v2.11.1",
+      "date": "2025-10-3",
+      "notes": [
+        "Performance and stability improvements."
+      ]
+    },
+    {
+      "version": "v2.11",
+      "date": "2025-09-15",
+      "notes": [
+        "Performance and stability improvements."
+      ]
+    },
+    {
+      "version": "v2.10.3",
+      "date": "2025-09-12",
+      "notes": [
+        "Better state management",
+        "Improved Wi-Fi setup",
+        "Keyboard handling enhancements",
+        "NMEA connection stability improvements",
+        "Bug fixes for recording, startup, OTA updates, camera switching, alignment, NMEA"
+      ]
+    },
+    {
+      "version": "v2.10.2",
+      "date": "2025-08-28",
+      "notes": [
+        "Better state management",
+        "Improved Wi-Fi setup",
+        "Keyboard handling enhancements",
+        "NMEA connection stability improvements",
+        "Bug fixes for recording, OTA updates, camera switching, alignment, NMEA"
+      ]
+    },
+    {
+      "version": "v2.10.1",
+      "date": "2025-08-27",
+      "notes": [
+        "Better state management",
+        "Improved Wi-Fi setup",
+        "Keyboard handling enhancements",
+        "NMEA connection stability improvements",
+        "Bug fixes for recording, OTA updates, camera switching, and alignment"
+      ]
+    },
+    {
+      "version": "v2.10",
+      "date": "2025-08-18",
+      "notes": [
+        "Better State Management",
+        "Better Wifi Setup",
+        "Keyboard Improvements",
+        "NMEA connection stability improvements"
+      ]
+    },
+    {
+      "version": "v2.9.2",
+      "date": "2025-07-28",
+      "notes": [
+        "Improved Actisense server connection for more stable NMEA data"
+      ]
+    },
+    {
+      "version": "v2.9.1",
+      "date": "2025-07-07",
+      "notes": [
+        "Bug fixes for detection display issues",
+        "Popup bug fixes",
+        "More stable OTA update"
+      ]
+    },
+    {
+      "version": "v2.9",
+      "date": "2025-06-20",
+      "notes": [
+        "Enhanced 360 mode with docking view and responsive controls",
+        "Back-facing 360 camera option",
+        "AIS Class B support with persistent names",
+        "RTSP camera switch support (e.g. FLIR)",
+        "More stable OTA update process"
+      ]
+    },
+    {
+      "version": "v2.8.1",
+      "date": "2025-06-10",
+      "notes": [
+        "Tap to train",
+        "MMSI boat names support",
+        "New coastal mode",
+        "Night Mode UI",
+        "More preference options",
+        "Minor display issue addressed"
+      ]
+    },
+    {
+      "version": "v2.8.0",
+      "date": "2025-06-05",
+      "notes": [
+        "Tap to train",
+        "MMSI boat names support",
+        "New coastal mode",
+        "Night Mode UI",
+        "More preference options",
+        "Bug fixes"
+      ]
+    },
+    {
+      "version": "v2.7.1",
+      "date": "2025-05-13",
+      "notes": [
+        "Latency improvements",
+        "Wifi stability and UI improvements"
+      ]
+    },
+    {
+      "version": "v2.7",
+      "date": "2025-05-01",
+      "notes": [
+        "Panorama mode",
+        "Better detection and tracking",
+        "Accurate AR rendering",
+        "Latency improvements",
+        "Wifi bug fixes"
+      ]
+    },
+    {
+      "version": "v2.6",
+      "date": "2025-02-28",
+      "notes": [
+        "Automatic Recording",
+        "Support for PTZ cam",
+        "Bug fixes"
+      ]
+    },
+    {
+      "version": "v2.5",
+      "date": "2025-02-25",
+      "notes": [
+        "OTA update functionality",
+        "Wifi config in-browser via LOOKOUT UI #42"
+      ]
+    }
+  ]
+}
