@@ -2,15 +2,13 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.4.2 (2026-05-02)
+## Latest Release: v3.4.3 (2026-05-21)
 
-- Improved web app responsiveness for arbitrary display and MFD resolutions
-- Correct letterboxing across arbitrary display and MFD resolutions
-- Fixed blue-tint appearance on LOOKOUT camera feeds
-- Reconnection bug fixes and startup hardening
+- Improved cloud updating mechanism
 
 ## Release History
 
+- [v3.4.3 (2026-05-21)](releases/v3.4.3.md)
 - [v3.4.2 (2026-05-02)](releases/v3.4.2.md)
 - [v3.4.1 (2026-04-27)](releases/v3.4.1.md)
 - [v3.4.0 (2026-04-20)](releases/v3.4.0.md)

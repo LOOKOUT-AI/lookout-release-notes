@@ -1,6 +1,13 @@
 {
-  "latest": "v3.4.2",
+  "latest": "v3.4.3",
   "releases": [
+    {
+      "version": "v3.4.3",
+      "date": "2026-05-21",
+      "notes": [
+        "Improved cloud updating mechanism"
+      ]
+    },
     {
       "version": "v3.4.2",
       "date": "2026-05-02",
