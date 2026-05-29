@@ -2,12 +2,13 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.4.3 (2026-05-21)
+## Latest Release: v3.4.3.1 (2026-05-29)
 
-- Improved cloud updating mechanism
+- Improved camera reconnection mechanism
 
 ## Release History
 
+- [v3.4.3.1 (2026-05-29)](releases/v3.4.3.1.md)
 - [v3.4.3 (2026-05-21)](releases/v3.4.3.md)
 - [v3.4.2 (2026-05-02)](releases/v3.4.2.md)
 - [v3.4.1 (2026-04-27)](releases/v3.4.1.md)
