@@ -1,0 +1,2 @@
+requests>=2.31
+vobject>=0.9.7
