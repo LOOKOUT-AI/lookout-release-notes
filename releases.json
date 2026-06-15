@@ -1,6 +1,15 @@
 {
-  "latest": "v3.4.3.1",
+  "latest": "v3.4.4",
   "releases": [
+    {
+      "version": "v3.4.4",
+      "date": "2026-06-16",
+      "notes": [
+        "Camera switching hardening",
+        "New over-under view in split screen",
+        "Preferences get saved across reboot hardening"
+      ]
+    },
     {
       "version": "v3.4.3.1",
       "date": "2026-05-29",
@@ -12,6 +21,7 @@
       "version": "v3.4.3",
       "date": "2026-05-21",
       "notes": [
+        "Bug fix for accurate placement of detections",
         "Improved cloud updating mechanism"
       ]
     },
@@ -30,7 +40,7 @@
       "date": "2026-04-27",
       "notes": [
         "Bug fixed where streaming would be stopped when no internet is available",
-        "Log flodding bug fix"
+        "Log flooding bug fix"
       ]
     },
     {
@@ -43,6 +53,14 @@
         "New neural network with improved detection",
         "Heading PGN selection in prefs",
         "Various smaller stability improvements and bug fixes"
+      ]
+    },
+    {
+      "version": "v3.3.0",
+      "date": "2026-03-10",
+      "notes": [
+        "Refactored video streaming for improved streaming on slow networks",
+        "New object detector for improved object detection and multi-object tracking"
       ]
     },
     {

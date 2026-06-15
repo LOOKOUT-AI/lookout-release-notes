@@ -2,17 +2,21 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.4.3.1 (2026-05-29)
+## Latest Release: v3.4.4 (2026-06-16)
 
-- Improved camera reconnection mechanism
+- Camera switching hardening
+- New over-under view in split screen
+- Preferences get saved across reboot hardening
 
 ## Release History
 
+- [v3.4.4 (2026-06-16)](releases/v3.4.4.md)
 - [v3.4.3.1 (2026-05-29)](releases/v3.4.3.1.md)
 - [v3.4.3 (2026-05-21)](releases/v3.4.3.md)
 - [v3.4.2 (2026-05-02)](releases/v3.4.2.md)
 - [v3.4.1 (2026-04-27)](releases/v3.4.1.md)
 - [v3.4.0 (2026-04-20)](releases/v3.4.0.md)
+- [v3.3.0 (2026-03-10)](releases/v3.3.0.md)
 - [v3.2.0 (2026-02-05)](releases/v3.2.0.md)
 - [v3.1.1 (2025-12-22)](releases/v3.1.1.md)
 - [v3.1.0 (2025-12-12)](releases/v3.1.0.md)
