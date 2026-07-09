@@ -2,14 +2,21 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.4.4 (2026-06-16)
+## Latest Release: v3.5.0 (2026-07-10)
 
-- Camera switching hardening
-- New over-under view in split screen
-- Preferences get saved across reboot hardening
+- HTML5 application support for compatible marine MFDs
+- Automatic Night Vision prompt at civil dusk with countdown and dismiss options
+- Heading, position, and speed source selection improvements
+- COG fallback and prompt when heading data differs from COG at speed
+- Aerial View UI/UX overhaul with updated edge controls and split-screen behavior
+- Aerial View day/night visual updates, including map, sky, and depth coloring
+- New shallow-water settings for boat draft, buffer depth, and unit-aware alert ranges
+- Improved AIS, buoy, and 3D boat visuals
+- Newly trained neural network with improved distance and heading estimation
 
 ## Release History
 
+- [v3.5.0 (2026-07-10)](releases/v3.5.0.md)
 - [v3.4.4 (2026-06-16)](releases/v3.4.4.md)
 - [v3.4.3.1 (2026-05-29)](releases/v3.4.3.1.md)
 - [v3.4.3 (2026-05-21)](releases/v3.4.3.md)
