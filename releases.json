@@ -1,6 +1,14 @@
 {
-  "latest": "v3.5.1",
+  "latest": "v3.5.2",
   "releases": [
+    {
+      "version": "v3.5.2",
+      "date": "2026-07-11",
+      "notes": [
+        "Reduced CPU utilization during LOOKOUT camera streaming, including when recording is disabled",
+        "Improved AIS and computer-vision diagnostics in Aerial expert mode"
+      ]
+    },
     {
       "version": "v3.5.1",
       "date": "2026-07-10",

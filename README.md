@@ -2,13 +2,14 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.5.1 (2026-07-10)
+## Latest Release: v3.5.2 (2026-07-11)
 
-- Improved reliability for HTML5 MFD application startup after updates
-- Improved OTA reliability for HTML5 MFD support components
+- Reduced CPU utilization during LOOKOUT camera streaming, including when recording is disabled
+- Improved AIS and computer-vision diagnostics in Aerial expert mode
 
 ## Release History
 
+- [v3.5.2 (2026-07-11)](releases/v3.5.2.md)
 - [v3.5.1 (2026-07-10)](releases/v3.5.1.md)
 - [v3.5.0 (2026-07-10)](releases/v3.5.0.md)
 - [v3.4.4 (2026-06-16)](releases/v3.4.4.md)
