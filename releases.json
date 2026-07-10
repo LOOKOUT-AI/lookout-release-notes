@@ -1,6 +1,14 @@
 {
-  "latest": "v3.5.0",
+  "latest": "v3.5.1",
   "releases": [
+    {
+      "version": "v3.5.1",
+      "date": "2026-07-10",
+      "notes": [
+        "Improved reliability for HTML5 MFD application startup after updates",
+        "Improved OTA reliability for HTML5 MFD support components"
+      ]
+    },
     {
       "version": "v3.5.0",
       "date": "2026-07-10",
