@@ -2,13 +2,18 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.5.2 (2026-07-11)
+## Latest Release: v3.5.4 (2026-08-24)
 
-- Reduced CPU utilization during LOOKOUT camera streaming, including when recording is disabled
-- Improved AIS and computer-vision diagnostics in Aerial expert mode
+- Improved streaming architecture and reduced latency
+- Multi-camera streaming, inference and recording controls
+- Hardware-accelerated HTML5 App
+- Unified camera discovery and management
+- Improved camera switching, stream recovery
+- Bug fixes and reliability improvements
 
 ## Release History
 
+- [v3.5.4 (2026-08-24)](releases/v3.5.4.md)
 - [v3.5.2 (2026-07-11)](releases/v3.5.2.md)
 - [v3.5.1 (2026-07-10)](releases/v3.5.1.md)
 - [v3.5.0 (2026-07-10)](releases/v3.5.0.md)

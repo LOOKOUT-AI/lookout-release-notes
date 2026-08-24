@@ -1,6 +1,18 @@
 {
-  "latest": "v3.5.2",
+  "latest": "v3.5.4",
   "releases": [
+    {
+      "version": "v3.5.4",
+      "date": "2026-08-24",
+      "notes": [
+        "Improved streaming architecture and reduced latency",
+        "Multi-camera streaming, inference and recording controls",
+        "Hardware-accelerated HTML5 App",
+        "Unified camera discovery and management",
+        "Improved camera switching, stream recovery",
+        "Bug fixes and reliability improvements"
+      ]
+    },
     {
       "version": "v3.5.2",
       "date": "2026-07-11",
