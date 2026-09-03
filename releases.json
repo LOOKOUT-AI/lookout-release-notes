@@ -1,6 +1,17 @@
 {
-  "latest": "v3.5.4",
+  "latest": "v3.5.5",
   "releases": [
+    {
+      "version": "v3.5.5",
+      "date": "2026-09-02",
+      "notes": [
+        "Camera Management Page Exposed to installers/customer",
+        "Pigtail Support for NMEA",
+        "Unified Wired and wireless UI/UX setup",
+        "Nexus Support for FLIR PTZ and temporary authentication",
+        "Bug fixes and reliability improvements"
+      ]
+    },
     {
       "version": "v3.5.4",
       "date": "2026-08-24",

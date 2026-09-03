@@ -2,17 +2,17 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.5.4 (2026-08-24)
+## Latest Release: v3.5.5 (2026-09-02)
 
-- Improved streaming architecture and reduced latency
-- Multi-camera streaming, inference and recording controls
-- Hardware-accelerated HTML5 App
-- Unified camera discovery and management
-- Improved camera switching, stream recovery
+- Camera Management Page Exposed to installers/customer
+- Pigtail Support for NMEA
+- Unified Wired and wireless UI/UX setup
+- Nexus Support for FLIR PTZ and temporary authentication
 - Bug fixes and reliability improvements
 
 ## Release History
 
+- [v3.5.5 (2026-09-02)](releases/v3.5.5.md)
 - [v3.5.4 (2026-08-24)](releases/v3.5.4.md)
 - [v3.5.2 (2026-07-11)](releases/v3.5.2.md)
 - [v3.5.1 (2026-07-10)](releases/v3.5.1.md)
