@@ -2,32 +2,21 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.5.6 (2026-09-24)
+## Latest Release: v3.5.7 (2026-10-08)
 
-- Updated neural network for improved object detection and more efficient processing
-- Optional distance-based alert areas let you adjust warning ranges and widths, with matching guides in Aerial View
-- New AI exclusion zones let you hide unwanted detections in selected areas of supported camera views
-- Smoother AIS vessel movement in Aerial and augmented-reality views, with vessel models sized using available vessel information
-- Configurable AIS course lines show projected vessel movement, with controls for visibility and projection time
-- A local AIS vessel database provides richer vessel details and keeps stored information available offline; cloud synchronization can be enabled or paused in AIS settings
-- Simpler own-vessel AIS settings help prevent your boat's transmissions from appearing as nearby targets
-- Clearer hazard markers on charts and in Aerial View, saved visibility preferences, and hazard display during Journey Log replay
-- Faster application startup, smoother transitions into Aerial View, a more consistent night palette, and clearer chart-loading feedback
-- Improved own-boat and camera markers, lake-area display, and shallow-water visualization
-- New Chart Data settings show chart status and storage use, with direct access to nautical-chart and land-map management
-- Improved offline map downloads and management, including clearer download coverage, more reliable zoom levels, and fewer unnecessary downloads during chart-data updates
-- Optional Demo Mode adds downloadable feature videos and journey replay for offline use, with camera shortcuts and a clean return to live viewing
-- More reliable discovery and reconnection of network cameras, including FLIR daylight and thermal channels and restored pan, tilt and zoom controls after camera address changes
-- More reliable automatic night-vision switching and recording across day and night camera modes
-- Live video and camera switching continue when low storage pauses recording; recording resumes when sufficient space returns while respecting saved recording and cleanup preferences
-- More reliable saving of completed recordings, faster recording-status updates, and lower background load as recording libraries grow
-- Improved recovery of live video and object detection after camera or storage interruptions
-- Lower streaming load on compatible Garmin marine displays, with improved display startup and automatic reconnection after interrupted video connections
-- More reliable cloud uploads of recorded video and navigation data, with upload progress and pending-upload status available in System Settings
-- Improved software installation and diagnostic logging, with consistent version information across the application
+- Sensor Fusion combines camera detections and AIS information in Aerial View, with clearer vessel markers and alerts
+- Recorded journeys can replay saved Sensor Fusion results with synchronized playback, seeking and speed controls
+- Optional 3D chart structures and bridge-clearance warnings in Aerial View
+- Improved terrain and water rendering, clearer chart labels, and more reliable day and night startup
+- Additional 3D boat models and improved vessel details in Aerial View
+- Mouse-wheel camera zoom and improved FLIR thermal zoom, camera reconnection and network settings
+- Improved cloud uploads of navigation and interaction data, with consistent upload allowance tracking
+- Support for capturing data from compatible Garmin and Navico radars
+- Smaller software downloads and more reliable system-clock recovery and scheduled restarts
 
 ## Release History
 
+- [v3.5.7 (2026-10-08)](releases/v3.5.7.md)
 - [v3.5.6 (2026-09-24)](releases/v3.5.6.md)
 - [v3.5.5 (2026-09-02)](releases/v3.5.5.md)
 - [v3.5.4 (2026-08-24)](releases/v3.5.4.md)

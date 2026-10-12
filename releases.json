@@ -1,6 +1,21 @@
 {
-  "latest": "v3.5.6",
+  "latest": "v3.5.7",
   "releases": [
+    {
+      "version": "v3.5.7",
+      "date": "2026-10-08",
+      "notes": [
+        "Sensor Fusion combines camera detections and AIS information in Aerial View, with clearer vessel markers and alerts",
+        "Recorded journeys can replay saved Sensor Fusion results with synchronized playback, seeking and speed controls",
+        "Optional 3D chart structures and bridge-clearance warnings in Aerial View",
+        "Improved terrain and water rendering, clearer chart labels, and more reliable day and night startup",
+        "Additional 3D boat models and improved vessel details in Aerial View",
+        "Mouse-wheel camera zoom and improved FLIR thermal zoom, camera reconnection and network settings",
+        "Improved cloud uploads of navigation and interaction data, with consistent upload allowance tracking",
+        "Support for capturing data from compatible Garmin and Navico radars",
+        "Smaller software downloads and more reliable system-clock recovery and scheduled restarts"
+      ]
+    },
     {
       "version": "v3.5.6",
       "date": "2026-09-24",
