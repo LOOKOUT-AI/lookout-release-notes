@@ -1,6 +1,14 @@
 {
-  "latest": "v3.5.7",
+  "latest": "v3.5.8",
   "releases": [
+    {
+      "version": "v3.5.8",
+      "date": "2026-10-13",
+      "notes": [
+        "Software updates preserve existing marine-display resolution settings",
+        "More reliable map updates, with download checks completed before interrupting map services"
+      ]
+    },
     {
       "version": "v3.5.7",
       "date": "2026-10-08",

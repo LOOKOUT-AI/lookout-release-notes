@@ -2,20 +2,14 @@
 
 Public release notes for LOOKOUT software.
 
-## Latest Release: v3.5.7 (2026-10-08)
+## Latest Release: v3.5.8 (2026-10-13)
 
-- Sensor Fusion combines camera detections and AIS information in Aerial View, with clearer vessel markers and alerts
-- Recorded journeys can replay saved Sensor Fusion results with synchronized playback, seeking and speed controls
-- Optional 3D chart structures and bridge-clearance warnings in Aerial View
-- Improved terrain and water rendering, clearer chart labels, and more reliable day and night startup
-- Additional 3D boat models and improved vessel details in Aerial View
-- Mouse-wheel camera zoom and improved FLIR thermal zoom, camera reconnection and network settings
-- Improved cloud uploads of navigation and interaction data, with consistent upload allowance tracking
-- Support for capturing data from compatible Garmin and Navico radars
-- Smaller software downloads and more reliable system-clock recovery and scheduled restarts
+- Software updates preserve existing marine-display resolution settings
+- More reliable map updates, with download checks completed before interrupting map services
 
 ## Release History
 
+- [v3.5.8 (2026-10-13)](releases/v3.5.8.md)
 - [v3.5.7 (2026-10-08)](releases/v3.5.7.md)
 - [v3.5.6 (2026-09-24)](releases/v3.5.6.md)
 - [v3.5.5 (2026-09-02)](releases/v3.5.5.md)
